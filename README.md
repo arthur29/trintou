@@ -1,4 +1,6 @@
-# Índice
+# Maiores informações para a festa
+
+## Índice
 1. [Programação da festa](sessions/schedule.md)
 2. [Localização pra por no GPS](sessions/location.md)
 3. [Como chegar aqui](sessions/ways_to_come.md)
