@@ -3,37 +3,37 @@
 Nessa sessão vou falar as possibilidades que temos para se chegar a Carmo do Cajuru, saindo do Rio de Janeiro, São Paulo e Belo Horizonte.
 
 1. [Rio de Janeiro](#rio-de-janeiro)
-1.1. [Ônibus](#rio-rodoviaria)
-1.2. [Avião](#rio-aereo)
-1.3. [Carro](#rio-rodoviaria-particular)
+    1. [Ônibus](#rio-rodoviaria)
+    2. [Avião](#rio-aereo)
+    3. [Carro](#rio-rodoviaria-particular)
 
 2. [São Paulo](#sao-paulo)
-1.1. [Ônibus](#sp-rodoviaria)
-1.2. [Avião](#sp-areo)
-1.3. [Carro](#sp-rodoviaria-particular)
+    1. [Ônibus](#sp-rodoviaria)
+    2. [Avião](#sp-areo)
+    3. [Carro](#sp-rodoviaria-particular)
 
 2. [Belo Horizonte]
-1.1. [Ônibus](#bh-rodoviaria)
-1.2. [Carro](#bh-rodoviaria-particular)
+    1. [Ônibus](#bh-rodoviaria)
+    2. [Carro](#bh-rodoviaria-particular)
 
 ## [Rio de Janeiro](#rio-de-janeiro)
 
-### [Rodoviário](#rio-rodoviaria)
+### [Ônibus](#rio-rodoviaria)
 
-### [Aéreo](#rio-rodoviaria)
+### [Avião](#rio-rodoviaria)
 
-### [Rodoviário particular](#rio-rodoviaria-particular)
+### [Carro](#rio-rodoviaria-particular)
 
 ## [São Paulo](#sao-paulo)
 
-### [Rodoviário](#sp-rodoviaria)
+### [Ônibus](#sp-rodoviaria)
 
-### [Aéreo](#sp-aereo)
+### [Avião](#sp-aereo)
 
-## [Rodoviário particular](#sp-rodoviaria-particular)
+## [Carro](#sp-rodoviaria-particular)
 
 ## (Belo Horizonte)(#bh)
 
-### [Rodoviário](#bh-rodoviaria)
+### [Ônibus](#bh-rodoviaria)
 
-### [Rodoviário particular](#bh-rodoviaria-particular)
+### [Carro](#bh-rodoviaria-particular)
