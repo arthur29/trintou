@@ -1,5 +1,5 @@
 # Índice
-1. Programação
+1. [Programação](sessions/schedule.md)
 2. Localização
 3. Como chegar
 4. O que fazer
