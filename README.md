@@ -4,13 +4,12 @@
 3. Como chegar
 4. O que fazer
 5. Onde comer
-6. 
 
-Olha só, que alegria poder te convidar pra um dos dias mais marcantes da minha vida! Se você tá lendo isso, é porque cê faz parte de um pedacinho especial da minha história, seja lá dos tempos de infância, da banda, do CEFET, da UFRJ, do batente, ou da volta pra Carmo do Cajuru.
+Olha só, que alegria poder te ter pra um dos dias mais marcantes da minha vida! Se você tá lendo isso, é porque cê faz parte de um pedacinho especial da minha história, seja lá dos tempos de infância, da banda, do CEFET, da UFRJ, do batente, ou da volta pra Carmo do Cajuru.
 
 ### Um Ajuntamento de Histórias Boas
 
-Minha intenção é que a gente compartilhe esse momento com gente boa demais que cruzou meu caminho. Pode ter certeza que você vai tá cercado de pessoas que, de um jeito ou de outro, fizeram bem pra mim e que carregam umas histórias de vida de cair o queixo, seja quem vive no fervo da cidade grande, lá na roça, ou no interior desse nosso Brasilzão (ou não né Sebastian?!).
+Minha intenção desse rolê todo de compartilhar esse momento com gente boa demais que cruzou meu caminho. Pode ter certeza que você vai tá cercado de pessoas que, de um jeito ou de outro, fizeram bem pra mim e que carregam umas histórias de vida de cair o queixo, seja quem vive no fervo da cidade grande, lá na roça, ou no interior desse nosso Brasilzão (ou não né Sebastian?!). Portanto aproveite esse momento para beber, comer, dançar e conhecer pessoas que de outra forma não conheceriam, só evitem uns ai meio duvidosos kkkkkkkkkkkk.
 
 ### Dicas pra Curtição
 
