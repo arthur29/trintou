@@ -12,7 +12,7 @@ Nessa sessão vou falar as possibilidades que temos para se chegar a Carmo do Ca
     2. [Avião](#sp-areo)
     3. [Carro](#sp-rodoviaria-particular)
 
-2. [Belo Horizonte]
+2. [Belo Horizonte](#bh)
     1. [Ônibus](#bh-rodoviaria)
     2. [Carro](#bh-rodoviaria-particular)
 
