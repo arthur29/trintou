@@ -3,17 +3,17 @@
 
 
 1. [Rio de Janeiro](#rio-de-janeiro)
-    1. [Ônibus](#onibus)
-    2. [Avião](#aviao)
+    1. [Ônibus](#ônibus)
+    2. [Avião](#avião)
     3. [Carro](#carro)
 
 2. [São Paulo](#sao-paulo)
-    1. [Ônibus](#onibus-1)
-    2. [Avião](#aviao-1)
+    1. [Ônibus](#ônibus-1)
+    2. [Avião](#avião-1)
     3. [Carro](#carro-1)
 
-2. [Belo Horizonte](#bh)
-    1. [Ônibus](#onibus-2)
+2. [Belo Horizonte](#belo-horizonte)
+    1. [Ônibus](#ônibus-2)
     2. [Carro](#carro-2)
 
 Nessa sessão vou falar as possibilidades que temos para se chegar a Carmo do Cajuru, saindo do Rio de Janeiro, São Paulo e Belo Horizonte.
