@@ -4,8 +4,9 @@
 1. [Programação da festa](sessions/schedule.md)
 2. [Localização pra por no GPS](sessions/location.md)
 3. [Como chegar aqui](sessions/ways_to_come.md)
-4. O que fazer
-5. Onde comer
+4. Onde se hospedar
+5. O que fazer
+6. Onde comer
 
 Olha só, que alegria poder te ter pra um dos dias mais marcantes da minha vida! Se você tá lendo isso, é porque cê faz parte de um pedacinho especial da minha história, seja lá dos tempos de infância, da banda, do CEFET, da UFRJ, do batente, ou da volta pra Carmo do Cajuru.
 
