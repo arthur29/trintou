@@ -17,4 +17,4 @@ Minha intenção é que a gente compartilhe esse momento com gente boa demais qu
 Aqui no site, a gente vai te dar uma mão pra chegar de um jeito bão no coração de Minas Gerais e também pra aproveitar o que tem de bom por aqui, dependendo de como cê for chegar. Vou listar umas opções pra comer e beber daquele jeito, umas trilhas pra esticar as pernas, uns pontos históricos importantes do Centro-Oeste Mineiro, e umas cidades vizinhas que podem te encantar a ponto de cê querer mudar pra lá um dia! E claro, umas sugestões de hospedagem e, pra mulherada, uns salões de beleza pra dar aquele tapa no visual.
 
 ### Marque na Agenda e se Prepare!
-Então, já guarda na agenda o dia *22 de novembro de 2025*, que *esse dia vai virar história, sô!*
+Então, já guarda na agenda o dia **22 de novembro de 2025**, que **esse dia vai virar história, sô!**
