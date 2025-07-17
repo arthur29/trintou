@@ -1,11 +1,13 @@
 # Índice
 1. [Programação](sessions/schedule.md)
-2. Localização
+2. [Localização](sessions/location.md)
 3. Como chegar
 4. O que fazer
 5. Onde comer
 
 Olha só, que alegria poder te ter pra um dos dias mais marcantes da minha vida! Se você tá lendo isso, é porque cê faz parte de um pedacinho especial da minha história, seja lá dos tempos de infância, da banda, do CEFET, da UFRJ, do batente, ou da volta pra Carmo do Cajuru.
+
+Então, galera! Essa data não foi à toa não, viu? Aproveitei que tem um feriado pra todo mundo conseguir chegar sem correria! A gente tá organizando cada pedacinho com um carinho que é pra sentir de longe. E um conselho de amigo: se for de chopp gelado, traga seu copo Stanley, que a prosa vai longe e a bebida não esquenta!
 
 ### Um Ajuntamento de Histórias Boas
 
