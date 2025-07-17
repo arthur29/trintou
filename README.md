@@ -1,7 +1,7 @@
 # Índice
-1. [Programação](sessions/schedule.md)
-2. [Localização](sessions/location.md)
-3. Como chegar
+1. [Programação da festa](sessions/schedule.md)
+2. [Localização pra por no GPS](sessions/location.md)
+3. Como chegar aqui
 4. O que fazer
 5. Onde comer
 

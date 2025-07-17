@@ -1,4 +1,4 @@
-# Programação
+# Programação da festa
 
 Nessa página vou destrinchar um pouco mais sobre como será o rolê todo, se vai ter anão tequileiro, polidance, carreta-furacão, dançarinas ou palhaços.
 
